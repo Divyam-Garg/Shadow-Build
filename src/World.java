@@ -14,6 +14,7 @@ public class World {
 	private static final String SOLID_PROPERTY = "solid";
 	
 	//testing 123123
+	//double testing
 	
 	private Sprite sprite;
 	
