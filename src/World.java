@@ -13,6 +13,8 @@ public class World {
 	private static final String MAP_PATH = "assets/main.tmx";
 	private static final String SOLID_PROPERTY = "solid";
 	
+	//testing 123123
+	
 	private Sprite sprite;
 	
 	private TiledMap map;
